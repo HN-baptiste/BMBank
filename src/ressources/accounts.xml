@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+	<client>
+		<name>Robet</name>
+		<firstname>Poilu</firstname>
+	</client>
+	<client>
+		<name>Aristo</name>
+		<firstname>chat</firstname>
+	</client>
+	<client>
+		<name>Cor</name>
+		<firstname>Nouaille</firstname>
+	</client>
+	<client>
+		<name>Breton</name>
+		<firstname>Nie</firstname>
+	</client>
+	<client>
+		<name>Ari</name>
+		<firstname>Bo</firstname>
+	</client>
+</account>

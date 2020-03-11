@@ -1,0 +1,18 @@
+{ "flows":[
+	{
+		"comment": "debit",
+		"amount":50.0,
+		"target":4  
+	},
+	{
+		"comment": "credit",
+		"amount":2000.0,
+		"target":4  
+	},
+	{
+		"comment": "transfert",
+		"amount":1000.0,
+		"target":3,
+		"source":5  
+	}]
+}
